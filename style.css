@@ -103,7 +103,7 @@ label {
     background-color: #f1f1f1;
     padding-top: 39px;
     padding-left: 3%;
-    height: 40%;
+    height: 53%;
     box-shadow: inset 0px 0px 10px 1px gray;
 }
 
@@ -134,4 +134,5 @@ a {
     text-decoration: none;
     color: #596D48;
     font-weight: 600;
+    margin-bottom: 100px;
 }
