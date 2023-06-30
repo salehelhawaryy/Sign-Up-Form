@@ -103,7 +103,8 @@ label {
     background-color: #f1f1f1;
     padding-top: 39px;
     padding-left: 3%;
-    height: 53%;
+    height: 52%;
+    width: 100%;
     box-shadow: inset 0px 0px 10px 1px gray;
 }
 
